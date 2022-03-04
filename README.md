@@ -4,6 +4,7 @@ Text is boring. How about using a GUI? Have fun!!!
 This is an extract from a 10 part lesson for MGS. In this lesson, I developed a teaching material on Python3 tkinter because text is boring and we live in the world of GUI.
 
 You will learn how to create this GUI using the ppt and the sample code provided.
+*** Don't forget to `pip install tk` ***
 
 ![image](https://user-images.githubusercontent.com/9929688/156696519-031c487c-3553-4c7d-8d3b-05d3f56dc849.png)
 
