@@ -3,6 +3,8 @@ Text is boring. How about using a GUI? Have fun!!!
 
 This is an extract from a 10 part lesson for MGS. In this lesson, I developed a teaching material on Python3 tkinter because text is boring and we live in the world of GUI.
 
+Thanks to Robotics Connection owner Mr Wong Kim Siong for vetting my work. http://www.robotics.com.sg/
+
 You will learn how to create this GUI using the ppt and the sample code provided.
 *** Don't forget to `pip install tk` ***
 
